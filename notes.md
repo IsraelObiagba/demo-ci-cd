@@ -1,4 +1,4 @@
-# Important Imformation
+# Important Information
 
 ## CI/CD Software
 - Installable: 
